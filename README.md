@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there, I am Devansh Beserwal
 
-<!--
-**DBeserwal/DBeserwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Full Stack Developer Intern at Ameriprise Financial
 - 🌱 I’m currently learning JavaSript, Spring/Springboot
