@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first working model when I was 12, It was a rear breaklight for my bicycle :P
 
+Programming Languages I am comfortable with - C, C++, Java, Python, JavaScript (HTML+CSS+XML)
+Areas of Interest - Machine Learning & AI, Android Application Development, Web Application Development
